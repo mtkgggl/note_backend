@@ -6,3 +6,6 @@ MySQL
 Symphony2,CakePHP,Laravel<br>
 NetBeans
 
+# Python Django
+PyCharm
+
