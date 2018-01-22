@@ -2,11 +2,11 @@
 MongoDB<br>
 MySQL
 
-Kafka
-Impala
-Hadoop
+Kafka<br>
+Impala<br>
+Hadoop<br>
 
-Redshift
+Redshift<br>
 
 # PHP
 Symphony2<br>
