@@ -3,6 +3,7 @@ MongoDB<br>
 MySQL
 
 Kafka
+Impala
 Hadoop
 
 Redshift
