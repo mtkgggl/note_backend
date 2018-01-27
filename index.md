@@ -18,3 +18,12 @@ NetBeans<br>
 # Python Django
 PyCharm
 
+# Java
+
+# ASP.NET
+
+
+# RDB
+* Oracle
+* SQLServer
+* MySQL
